@@ -10,12 +10,13 @@ Rule:
 
 
 
+
 -----------------------------------------
 Changes:
 
 * a new avatar added and a new quotation added into php database page
 
-
+make quotation show on page
 
 
 
